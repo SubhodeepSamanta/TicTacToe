@@ -32,9 +32,9 @@ Tic Tac Toe is a classic, interactive game that you can play in your web browser
    ```bash
    git clone https://github.com/SubhodeepSamanta/TicTacToe.git
 
-##License
+## License
 This project is licensed under the MIT License. 
 
 
-##Acknowledgments
+## Acknowledgments
 Special thanks to the open-source community for providing inspiration and resources.
